@@ -1,0 +1,44 @@
+.stButton > button {
+    color: #FFFFFF;
+    background-color: #C60C35;
+    font-size: 20px;
+    height: 60px;
+    width: 100%;
+}
+
+.stButton > button:hover {
+    color: #FFFFFF;
+    background-color: #920000;
+    border-color: #920000;
+    font-size: 20px;
+    height: 60px;
+    width: 100%;
+}
+
+.st-emotion-cache-uf99v8 {
+    position: absolute;
+    background-image: url("https://ichef.bbci.co.uk/news/800/cpsprodpb/d483/live/4d32a5b0-3b63-11ee-97e0-f734ec3e709e.jpg");
+    inset: 0px;
+    color-scheme: dark;
+    overflow: hidden;
+}
+
+.st-emotion-cache-r421ms {
+    background-color: #FFFFFF;
+    border: 1px solid rgba(49, 51, 63, 0.2);
+    border-radius: 0.5rem;
+    padding: calc(1em - 1px);
+}
+
+.st-emotion-cache-y4bq5x {
+    display: flex;
+    background-color: #FFFFFF;
+    visibility: visible;
+    vertical-align: middle;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    border: 1px solid rgba(49, 51, 63, 0.2);
+    border-radius: 0.5rem;
+    padding: calc(1em - 1px);
+}
